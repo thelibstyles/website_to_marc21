@@ -11,6 +11,7 @@ This repo imports OG tags website data and then writes that data to a valid Marc
 ## Setup
 * pip install pymarc
 * pip install beautifulsoup4
+* pip install requests
 
 ## How to use this
 1. Open website_to_marc21.py
