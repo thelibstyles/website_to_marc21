@@ -6,7 +6,7 @@ import re
 import datetime
 
 # target website
-url = 'https://museumsvictoria.com.au/melbournemuseum/at-home/'
+url = 'https://www.slv.vic.gov.au/'
 
 # get website data with requests    
 r = requests.get(url)
