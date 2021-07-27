@@ -42,7 +42,7 @@ def main():
     # Creating records based on supplied data
     record = Record()
 
-    # FIELD TEMPPLATE, INCASE YOU NEED TO ADD A NEW FIELD
+    # FIELD TEMPLATE, INCASE YOU NEED TO ADD A NEW FIELD
     # # Adding ??? - ???
     # record.add_field(
     #     Field(
