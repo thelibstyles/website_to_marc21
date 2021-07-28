@@ -17,7 +17,7 @@ r.text
 # load website data into BS4
 soup = BeautifulSoup(r.text, 'html.parser')
 
-# main scritpion function, uses website data to build marc21 records using pymarc
+# main function, uses website data to build marc21 records using pymarc
 def main():
     
     title = soup.find("meta",  property="og:title")
